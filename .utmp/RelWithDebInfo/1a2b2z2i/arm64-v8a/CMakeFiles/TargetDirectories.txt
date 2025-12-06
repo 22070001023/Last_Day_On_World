@@ -1,0 +1,5 @@
+/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

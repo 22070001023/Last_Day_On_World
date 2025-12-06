@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt",
+    "/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Applications/Unity/Hub/Editor/6000.2.6f2/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Applications/Unity/Hub/Editor/6000.2.6f2/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/.utmp/RelWithDebInfo/1a2b2z2i/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "arm64-v8a",
+      "output": "/Users/denizakkaya/Documents/GitHub/Last_Day_On_World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1a2b2z2i/obj/arm64-v8a/libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}
